@@ -34,5 +34,6 @@ with open(path,'r') as f:
         print("heading 1 is not found")
     elif h1 and not h2:
         print("heading 2 is not found")
+        #edited in github
     
     
